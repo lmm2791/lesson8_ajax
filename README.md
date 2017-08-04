@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+8/4/2017
 
 ### Student Name:  
-(First and Last Name)
+Lynn Masimore
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project had us use AJAX to link our website to a 3rd party data service (TMDB)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://lmm2791.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned about JSON and how it facilitates data transmission between an app and the webserver. JSON format is in common usage across the web. It might be a reasch to call it a standard (the web is evolving so quickly!) but it's one of the biggies. 
+2. AJAX allows data to load without refreshing the browser. This allows for increased speed and interactivity. It accomplishes this with the same building blocks that all dynamic websites have: XHTML, CSS, Javascript and the DOM. 
+3. Publicly releasing their API is how the big players of the web enable their content to be easily incorporated into other websites. It also helps to avoid reinventing the wheel by allowing other apps to incorporate 3rd party data.
